@@ -4,7 +4,7 @@ title: Scripts
 permalink: /Scripts/
 ---
 
-In here you will be able to find scripts for talks that I have given. The notes are (probably) full of mistakes and (definitely) full of impressions; which is why I decided to call them scripts. As they should be perceived as scripts of informal conversations I have had the pleasure to participate in.
+In here you will find scripts for talks I have given. This lectures where aimed at a particular audience, and are purposefully imprecise and vague. I hope that the essence of what I am trying to say is clear, and not buried under details. Use with care.
 
 [The Cotangent Complex and the Derived Philosophy](The Cotangent Complex.pdf)
 

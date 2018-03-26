@@ -4,7 +4,7 @@ title: Notes
 permalink: /Notes/
 ---
 
-You will find more formal mathematical writting.
+In here you will find formal mathematical writing.
 
 [The Cotangent Complex and Infinitesimal Deformations](Deformation Theory.pdf)
 
