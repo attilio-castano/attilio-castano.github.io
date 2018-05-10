@@ -10,12 +10,12 @@ During the summer of 2018, I am participating in & organizing a learning seminar
 
 The goal of the seminar will evolve as time goes on. Currently, our goal is to understand homological algebra from the perspective of stable infinity categories.
 
-On May 10, we will be meeting at 11 am on 1866 East Hall.
+On Tuesday May 15, we will have an informal discussion meeting from 2 - 3 pm on EH1068
 
 
 ### Schedule
 
-May 10 | Homological Algebra from the Perspective of Infinity Categories | Attilio Castano
+May 10 | [Homological Algebra from the Perspective of Infinity Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
 May 17 | Simplicial Sets and Infinity Categories | TBD
 May 24 | Model Categories | TBD
 
