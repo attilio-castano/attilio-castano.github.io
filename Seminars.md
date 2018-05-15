@@ -8,16 +8,18 @@ permalink: /Seminars/
 
 During the summer of 2018, I am participating in & organizing a learning seminar on the foundational aspects of Derived Algebraic Geometry.
 
-The goal of the seminar will evolve as time goes on. Currently, our goal is to understand homological algebra from the perspective of stable infinity categories.
-
 On Tuesday May 15, we will have an informal discussion meeting from 2 - 3 pm on EH1068
 
 
 ### Schedule
 
-May 10 | [Homological Algebra from the Perspective of Infinity Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
-May 17 | Simplicial Sets and Infinity Categories | TBD
-May 24 | Model Categories | TBD
+May 10 | [Homological Algebra from the Perspective of &infin;-Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
+May 17 | Simplicial Sets and &infin;-Categories | Haoyang Guo
+May 24 | Model Categories | Shubhodip Modal
+May 31 | Basic Operations on &infin;-Categories | TBD
+June 7 | Higher Algebraic Structures | TBD
+June 14 | Basics of Derived Algebraic Geometry | TBD
+June 21 | Deformation Theory | TBD
 
 
 
@@ -27,7 +29,7 @@ May 24 | Model Categories | TBD
 
 * Gaitsgory and Rozenblyum - A Study in Derived Algebraic Geometry [(link)](http://www.math.harvard.edu/~gaitsgde/GL/)
 * Lurie - Higher Algebra [(pdf)](http://www.math.harvard.edu/~lurie/papers/HA.pdf)
-* Groth - A short course on Infinity Categories [(pdf)](https://arxiv.org/pdf/1007.2925.pdf)
+* Groth - A Short Course on &infin;-Categories [(pdf)](https://arxiv.org/pdf/1007.2925.pdf)
 
 
 **Simplicial Sets**
