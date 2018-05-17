@@ -8,18 +8,18 @@ permalink: /Seminars/
 
 During the summer of 2018, I am participating in & organizing a learning seminar on the foundational aspects of Derived Algebraic Geometry.
 
-On Tuesday May 15, we will have an informal discussion meeting from 2 - 3 pm on EH1068
+On Thursday May 17, Haoyang Guo will be presenting on Simplicial Sets and &infin;-Categories at EH 1084. The talk will begin at 11 am.
 
 
 ### Schedule
 
 May 10 | [Homological Algebra from the Perspective of &infin;-Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
 May 17 | Simplicial Sets and &infin;-Categories | Haoyang Guo
-May 24 | Model Categories | Shubhodip Modal
+May 24 | Model Categories | Shubhodip Mondal
 May 31 | Basic Operations on &infin;-Categories | TBD
 June 7 | Higher Algebraic Structures | TBD
-June 14 | Basics of Derived Algebraic Geometry | TBD
-June 21 | Deformation Theory | TBD
+June 14 | Basics of Derived Algebraic Geometry | Shubhodip Mondal
+June 21 | Deformation Theory | Attilio Castano
 
 
 
