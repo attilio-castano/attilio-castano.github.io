@@ -8,7 +8,7 @@ permalink: /Seminars/
 
 During the summer of 2018, I am participating in & organizing a learning seminar on the foundational aspects of Derived Algebraic Geometry.
 
-On May 24 Shubhodip Mondal, will be presenting on Model Categories, at EH1866. The talk will begin at 11 am.
+On May 31 Shubhodip Mondal, will be presenting on Model Categories, at EH1866. The talk will begin at 11 am.
 
 ### Schedule
 
