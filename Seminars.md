@@ -14,9 +14,8 @@ On May 24 Shubhodip Mondal, will be presenting on Model Categories, at EH1866. T
 
 May 10 | [Homological Algebra from the Perspective of &infin;-Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
 May 17 | [Simplicial Sets and &infin;-Categories](Simplicial sets and infinity categories.pdf) | Haoyang Guo
-May 24 | Model Categories | Shubhodip Mondal
-May 31 | Basic Operations on &infin;-Categories | TBD
-June 7 | Higher Algebraic Structures | TBD
+May 31 | Model Categories | Shubhodip Mondal
+June 7 | Higher Algebraic Structures | Attilio Castano
 June 14 | Basics of Derived Algebraic Geometry | TBD
 June 21 | Deformation Theory | TBD
 
