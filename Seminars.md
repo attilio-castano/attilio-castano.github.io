@@ -8,13 +8,13 @@ permalink: /Seminars/
 
 During the summer of 2018, I am participating in & organizing a learning seminar on the foundational aspects of Derived Algebraic Geometry.
 
-On May 31 Shubhodip Mondal, will be presenting on Model Categories, at EH1866. The talk will begin at 11 am.
+On June 7 Attilio Castano, will be presenting on Higher Algebraic Structures, at EH1866. The talk will begin at 11 am.
 
 ### Schedule
 
 May 10 | [Homological Algebra from the Perspective of &infin;-Categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
 May 17 | [Simplicial Sets and &infin;-Categories](Simplicial sets and infinity categories.pdf) | Haoyang Guo
-May 31 | Model Categories | Shubhodip Mondal
+May 31 | [Model Categories](Model Categories.pdf) | Shubhodip Mondal
 June 7 | Higher Algebraic Structures | Attilio Castano
 June 14 | Basics of Derived Algebraic Geometry | TBD
 June 21 | Deformation Theory | TBD
