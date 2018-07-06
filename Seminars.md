@@ -16,8 +16,6 @@ May 17 | [Simplicial Sets and &infin;-Categories](Simplicial sets and infinity c
 May 31 | [Model Categories](Model Categories.pdf) | Shubhodip Mondal
 June 7 | [Higher Algebraic Structures I](/Scripts/Higher Algebraic Structures.pdf) | Attilio Castano
 June 21 | [Higher Algebraic Structures II](/Scripts/Higher Algebraic Structures.pdf) | Attilio Castano
-TBD | Basics of Derived Algebraic Geometry | TBD
-TBD | Deformation Theory | TBD
 
 
 
