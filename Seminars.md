@@ -4,7 +4,7 @@ title: Seminars
 permalink: /Seminars/
 ---
 
-## Derived non-sense learning seminar
+## Derived nonsense learning seminar
 
 During the summer of 2018, I am participating in & organizing a learning seminar on some aspects of Derived Algebraic Geometry.
 
