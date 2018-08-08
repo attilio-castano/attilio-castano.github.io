@@ -6,6 +6,8 @@ permalink: /Scripts/
 
 In here you will find scripts for talks I have given. These lectures where aimed at a particular audience, and are purposefully imprecise and vague. Of course, these are also full of unintended mistakes. I hope that the essence of what I am trying to say is clear, and not buried under details. Use with care.
 
+[Functor of Points Geometry](Functor of Points Geometry.pdf)
+
 [Higher Algebraic Structures](Higher Algebraic Structures.pdf)
 
 [Geometric Criterion for Automorphy](Geometric Criterion for Automorphy.pdf)

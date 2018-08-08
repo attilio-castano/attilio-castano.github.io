@@ -17,7 +17,7 @@ May 31 | [Model categories](Model Categories.pdf) | Shubhodip Mondal
 June 7 | [Higher algebraic structures I](/Scripts/Higher Algebraic Structures.pdf) | Attilio Castano
 June 21 | [Higher algebraic structures II](/Scripts/Higher Algebraic Structures.pdf) | Attilio Castano
 July 26 | Tannaka duality: using derived algebraic geometry to solve elementary problems about schemes | Bhargav Bhatt
-
+August 13-17| [Functor of Points Geometry](/Scripts/Functor of Points Geometry.pdf) | Attilio Castano
 
 
 ### References
