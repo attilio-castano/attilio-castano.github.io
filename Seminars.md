@@ -6,12 +6,12 @@ permalink: /Seminars/
 
 ## Derived nonsense learning seminar
 
-During the summer of 2018, I am participating in & organizing a learning seminar on some aspects of Derived Algebraic Geometry.
+During the summer of 2018, I participated in & organized a learning seminar on some aspects of Derived Algebraic Geometry.
 
 
 ### Schedule
 
-May 10 | [Homological algebra from the perspective of &infin;-categories](Homological Algebra from the perspective of Infinity Categories V2.pdf) | Attilio Castano
+May 10 | [Homological algebra from the perspective of &infin;-categories](/Scripts/Homological Algebra from the perspective of Infinity Categories.pdf) | Attilio Castano
 May 17 | [Simplicial sets and &infin;-categories](Simplicial sets and infinity categories.pdf) | Haoyang Guo
 May 31 | [Model categories](Model Categories.pdf) | Shubhodip Mondal
 June 7 | [Higher algebraic structures I](/Scripts/Higher Algebraic Structures.pdf) | Attilio Castano
