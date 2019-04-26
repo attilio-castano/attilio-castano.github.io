@@ -4,7 +4,9 @@ title: Scripts
 permalink: /Scripts/
 ---
 
-In here you will find scripts for talks I have given. These lectures were aimed at a particular audience, and are purposefully imprecise and vague. Of course, these are also full of unintended mistakes. I hope that the essence of what I am trying to say is clear, and not buried under details. Use with care.
+In here you will find scripts for talks I have given. These lectures were aimed at a particular audience, and are (sometimes) purposefully imprecise and vague. These are also full of unintended mistakes. I hope that the essence of what I am trying to say is clear, and not buried under details. Use with care.
+
+[Deforming Kunz Theorem to Mixed Characteristic](Deforming Kunz Theorem to Mixed Char.pdf)
 
 [A_inf and Deformation Theory](Ainf and Deformation Theory.pdf)
 
