@@ -4,7 +4,7 @@ title: Seminars
 permalink: /Seminars/
 ---
 
-## Katz-Mazur learning seminar
+## Katz-Mazur learning seminar 
 
 During the summer of 2019, I am participating in & organizing a learning seminar following Katz-Mazur's book: Arithmetic Moduli of Elliptic Curves.
 
