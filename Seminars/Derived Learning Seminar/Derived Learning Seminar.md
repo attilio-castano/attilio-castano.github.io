@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Derived Learning Seminar
 ---
 
 ## Derived learning seminar
