@@ -1,5 +1,7 @@
 ---
 layout: page
+title: null
+permalink: null
 ---
 
 ## Derived learning seminar

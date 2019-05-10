@@ -30,6 +30,6 @@ June 13 | Serre-Tate Theorem | TBD
 
 ## Past Seminars
 
-* [Derived learning seminar](/Seminars/Derived Learning Seminar/Derived Learning Seminar)
+* [**Derived learning seminar**](/Seminars/Derived Learning Seminar/Derived Learning Seminar)
 
 
