@@ -8,7 +8,7 @@ permalink: /Seminars/
 
 During the summer of 2019, I am participating in & organizing a learning seminar following Katz-Mazur's book: Arithmetic Moduli of Elliptic Curves.
 
-The seminar will be meeting Thursday's at 3 pm, on 3888 EH.
+The seminar will be meeting Thursday's at 3 pm, on 3866 EH.
 
 ### References
 
