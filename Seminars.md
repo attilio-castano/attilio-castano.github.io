@@ -19,11 +19,11 @@ You can also find a downloadable copy at the bottom of Katz's webpage: [here](ht
 
 ### Schedule
 
-May 16 | What are we trying to do? | Attilio Castano
-May 23 | Beauville-Laszlo Theorem | TBD
-May 30 | Drinfeld Level Structures | TBD
-June 6 | Elliptic Curves | TBD
-June 13 | Serre-Tate Theorem | TBD
+May 16 | [What are we trying to do?](What are we trying to do.pdf) | Attilio Castano
+May 23 | Beauville-Laszlo Theorem | Attilio Castano
+May 30 | Drinfeld Level Structures | Emanuel Reinecke
+June 6 | Elliptic Curves | Alex Horawa
+June 13 | Serre-Tate Theorem | Haoyang Guo
  | To be continued... |
 
 
