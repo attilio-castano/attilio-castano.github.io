@@ -6,6 +6,8 @@ permalink: /Notes/
 
 In here you will find notes for some talks I have given. These are sloppy, so please use with care and don't take them too seriously.
 
+[On a Theorem of Beauville-Laszlo](On a Theorem of Beauville-Laszlo.pdf)
+
 [Deforming Kunz Theorem to Mixed Characteristic](Deforming Kunz Theorem to Mixed Char.pdf)
 
 [A_inf and Deformation Theory](Ainf and Deformation Theory.pdf)
