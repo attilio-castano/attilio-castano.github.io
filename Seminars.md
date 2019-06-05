@@ -22,7 +22,7 @@ You can also find a downloadable copy at the bottom of Katz's webpage: [here](ht
 May 16 | [What are we trying to do?](What are we trying to do.pdf) | Attilio Castano
 May 23 | [Beauville-Laszlo Theorem](/Notes/On a Theorem of Beauville-Laszlo.pdf) | Attilio Castano
 May 30 | Drinfeld Level Structures | Emanuel Reinecke
-June 6 | Elliptic Curves | Alex Horawa
+June 7 | Elliptic Curves | Alex Horawa
 June 13 | Serre-Tate Theorem | Haoyang Guo
  | To be continued... |
 
