@@ -19,11 +19,11 @@ You can also find a downloadable copy at the bottom of Katz's webpage: [here](ht
 
 ### Schedule
 
-May 16 | [What are we trying to do?](What are we trying to do.pdf) | Attilio Castano
+May 16 | What are we trying to do? | Attilio Castano
 May 23 | [Beauville-Laszlo Theorem](/Notes/On a Theorem of Beauville-Laszlo.pdf) | Attilio Castano
 May 30 | Drinfeld Level Structures | Emanuel Reinecke
 June 7 | Elliptic Curves | Alex Horawa
-June 13 | Serre-Tate Theorem | Haoyang Guo
+June 13 | [Serre-Tate Theorem](/Seminars/Katz-Mazur/Guo - Katz-Mazur-Serre-Tate.pdf) | Haoyang Guo
  | To be continued... |
 
 
