@@ -6,6 +6,8 @@ permalink: /Notes/
 
 In here you will find notes for some talks I have given. These are sloppy, so please use with care and don't take them too seriously.
 
+[A K-theoretic approach to the representation theory of finite groups](KU and Rep.pdf) (Under Construction)
+
 [On a Theorem of Beauville-Laszlo](On a Theorem of Beauville-Laszlo.pdf)
 
 [Deforming Kunz Theorem to Mixed Characteristic](Deforming Kunz Theorem to Mixed Char.pdf)
