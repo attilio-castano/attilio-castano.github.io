@@ -6,7 +6,7 @@ permalink: /Notes/
 
 In here you will find notes for some talks I have given. These are sloppy, so please use with care and don't take them too seriously.
 
-[Integral K-theory and Rep(G)](KU and Rep.pdf)
+[Integral K-theory and Rep(G)](Integral KU and Rep(G).pdf)
 
 [On a Theorem of Beauville-Laszlo](On a Theorem of Beauville-Laszlo.pdf)
 
