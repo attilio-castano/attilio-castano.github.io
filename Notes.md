@@ -4,7 +4,7 @@ title: Notes
 permalink: /Notes/
 ---
 
-In here you will find notes for some talks I have given. These are sloppy, so please use with care and don't take them too seriously.
+Here you will find some informal notes I have written.
 
 [Integral K-theory and Rep(G)](Integral KU and Rep(G).pdf)
 
